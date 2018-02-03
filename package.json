@@ -1,0 +1,18 @@
+{
+  "name": "acforward",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer-dataview": "0.0.2",
+    "dgram": "^1.0.1",
+    "hexy": "^0.2.10",
+    "readline": "^1.3.0"
+  }
+}
